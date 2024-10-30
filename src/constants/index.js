@@ -17,29 +17,29 @@ import {
 export const navBarList = [
   {
     _id: 1001,
-    title: "Home",
+    title: "Inicio",
     link: "/",
   },
-  {
+  /*{
     _id: 1002,
-    title: "Shop",
+    title: "Productos",
     link: "/shop",
   },
   {
     _id: 1003,
-    title: "About",
+    title: "Nosotros",
     link: "/about",
   },
   {
     _id: 1004,
-    title: "Contact",
+    title: "Contacto",
     link: "contact",
-  },
-  {
+  },*/
+  /*{
     _id: 1005,
     title: "Journal",
     link: "/journal",
-  },
+  },*/
 ];
 // =================== NavBarList End here ======================
 // =================== Special Offer data Start here ============
